@@ -5,6 +5,7 @@
 	ENC_1_A		<-> 	PA4
 	ENC_1_B		<-> 	PA5
 */
+
 #include <stdlib.h>
 
 #include "msg_drive.h"
